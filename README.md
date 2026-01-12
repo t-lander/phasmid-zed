@@ -4,4 +4,4 @@ An editor theme for ZED, designed to blend with application UI's such as Obsidia
 
 ---
 
-![Preview](/assets/preview.png)
+![Preview](/assets/preview.webp)
